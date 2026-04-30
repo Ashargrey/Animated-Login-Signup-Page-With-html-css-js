@@ -18,7 +18,8 @@ A modern and responsive Login & Signup UI with smooth sliding animation built us
 ---
 
 ## 📷 Preview
-(Add screenshot here)
+<img width="479" height="588" alt="image" src="https://github.com/user-attachments/assets/129c2b1a-6903-4330-9b87-fa61758cc1f4" />
+
 
 ---
 
